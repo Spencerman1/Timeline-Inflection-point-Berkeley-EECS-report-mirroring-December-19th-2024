@@ -1,0 +1,33 @@
+A3 Shomit Ghose have to Loka Protocol, AWS, Coinbase
+
+Me: what connection does Shomit Ghose have to Loka Protocol, AWS, Coinbase?
+
+Copilot: **Direct answer:** There is no evidence that Shomit Ghose has a formal or direct connection to **Loka Protocol**, **AWS**, or **Coinbase**. His public profile shows him as a venture capitalist, advisor, and educator, but the links between him and those three entities are indirect or thematic rather than organizational.  
+---
+
+### **What the sources show**
+
+* **Shomit Ghose’s profile**: He is a venture capitalist and advisor, with roles in entrepreneurship programs and innovation boards [LinkedIn](https://www.linkedin.com/in/shomit-ghose-44512). No mention of AWS, Coinbase, or Loka Protocol in his professional affiliations.  
+* **Loka Protocol**: A decentralized framework for trustworthy and ethical AI agent ecosystems, proposed by researchers at Carnegie Mellon and others [arXiv.org](https://arxiv.org/abs/2504.10915) [eluxr.com](https://eluxr.com/2025/04/28/transforming-identity-lokas-universal-agent-layer-redefines-a2a-mcp/) [VentureBeat](https://venturebeat.com/ai/beyond-a2a-and-mcp-how-lokas-universal-agent-identity-layer-changes-the-game). Shomit Ghose has written extensively about agentic AI and architecture at UC Berkeley Sutardja Center [scet.berkeley.edu](https://scet.berkeley.edu/author/shomit/), which overlaps conceptually with Loka’s themes, but he is not listed as an author or contributor.  
+* **AWS and Coinbase**: Coinbase has partnered with AWS to build ultra‑low‑latency crypto exchanges and optimize cloud infrastructure [AWS](https://aws.amazon.com/solutions/case-studies/coinbase-cryptocurrency-exchange-case-study/) [YouTube](https://www.youtube.com/watch?v=iB78FrFWrLE) [AWS](https://aws.amazon.com/solutions/case-studies/coinbase-migration-case-study/). These are technical collaborations between the two companies, not involving Shomit Ghose.
+
+---
+
+### **Thematic connections**
+
+* **Agentic AI & Loka Protocol**: Ghose’s writing on agentic AI, chain‑of‑thought, and emergent misalignment aligns conceptually with Loka’s mission to govern autonomous agents ethically. His thought leadership overlaps with the protocol’s goals, but he is not formally tied to it.  
+* **Cloud infrastructure & AWS**: As a venture capitalist focused on technology startups, Ghose often mentors companies that rely on cloud platforms like AWS. While AWS is central to Coinbase’s infrastructure, Ghose’s connection is more through the broader startup ecosystem than direct involvement.  
+* **Crypto & Coinbase**: Ghose’s venture capital background includes exposure to fintech and blockchain startups, but there is no evidence of him being part of Coinbase’s leadership, advisory, or technical teams.
+
+---
+
+### **Bottom line**
+
+Shomit Ghose’s **connection is thematic, not organizational**:
+
+* He writes about **agentic AI**, which overlaps with **Loka Protocol’s goals**.  
+* He mentors startups that often rely on **AWS infrastructure**.  
+* He has exposure to fintech and blockchain, but **no direct role at Coinbase**.
+
+Would you like me to build a **visual map** showing how Ghose’s thought leadership overlaps conceptually with Loka Protocol, AWS, and Coinbase — so you can see the indirect but strategic intersections?
+
