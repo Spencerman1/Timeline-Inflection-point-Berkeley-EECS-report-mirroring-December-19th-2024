@@ -1,0 +1,2 @@
+# Inflection-point-Berkeley-EECS-report-mirroring-December-19th-2024
+What this Berkeley EECS report is, in their own words This is not a blog post; it’s a formal PhD thesis:  “This thesis explores the evolution of agentic systems through the deep learning revolution, from reinforcement learning to modern Large Language Models (LLMs), focusing on the critical components needed to create reliable autonomous agents.”
